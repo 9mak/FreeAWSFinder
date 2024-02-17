@@ -1,0 +1,781 @@
+Expertise: 12 か月間無料
+Service: Amazon EC2
+Limit: 750 時間 /月
+Description: クラウド内でサイズ変更可能なコンピューティング性能。
+Description Extra: リージョンに応じて、750 時間/月の Linux、RHEL、SLES t2.micro または t3.micro インスタンス
+リージョンに応じて、750 時間/月の Windows t2.micro または t3.micro インスタンス
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon S3
+Limit: 5 GB の標準ストレージ
+Description: 安全性と耐久性を持つスケーラブルなオブジェクトストレージインフラストラクチャ。
+Description Extra: 5 GB の標準ストレージ
+20,000 件の Get リクエスト
+2,000 件の Put リクエスト
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon RDS
+Limit: 750 時間 のデータベース使用時間/月 (該当する DB エンジン)
+Description: MySQL、PostgreSQL、MariaDB、または SQL Server のためのマネージドリレーショナルデータベースサービスです。
+Description Extra: 1 か月あたり 750 時間の、MySQL、MariaDB、PostgreSQL データベースを実行する Amazon RDS シングル AZ db.t2.micro、db.t3.micro、および db.t4g.micro インスタンスの使用時間 (該当する DB エンジン)
+--------------------------------------------------
+Expertise: 無期限無料
+Service: Amazon DynamoDB
+Limit: 25 GB のストレージ
+Description: シームレスなスケーラビリティを備えた、高速で柔軟な NoSQL データベース。
+Description Extra: 25 GB のストレージ
+25 個のプロビジョニングされた書き込みキャパシティーユニット (WCU)
+のプロビジョニングされた読み込みキャパシティーユニット (RCU)
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon SageMaker
+Limit: 2 か月 無料トライアル
+Description: すべてのデータサイエンティストとデベロッパーのための機械学習。
+Description Extra: Studio ノートブックでは 250 時間/月の ml.t3.medium、またはオンデマンドノートブックインスタンスでは 250 時間/月の ml.t2.medium または ml.t3.medium
+SageMaker Data Wrangler の ml.m5.4xlarge で 25 時間/月
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Lambda
+Limit: 100 万 /月の無料リクエスト
+Description: イベント発生時にお客様のコードを実行し、コンピューティングリソースを自動的に管理するコンピューティングサービスです。
+Description Extra: 1,000,000 件/月の無料リクエスト
+1 か月あたり最大 320 万秒のコンピューティング時間
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Redshift
+Limit: 2 か月 無料トライアル
+Description: 高速、シンプル、費用対効果の高いデータウェアハウジング。
+Description Extra: 2 か月間無料
+2 か月間、1 か月あたり 750 時間の DC2.Large ノード時間
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon OpenSearch Service
+Limit: 750 時間 single-AZ t2.small.search または t3.small.search インスタンスの 1 か月あたり
+Description: インタラクティブなログ分析、リアルタイムのアプリケーションのモニタリング、ウェブサイト検索などの実行を簡単にするマネージドサービス。
+Description Extra: 750 時間/月の single-AZ t2.small.search または t3.small.search インスタンス
+--------------------------------------------------
+Expertise: 無期限無料
+Service: Amazon SNS
+Limit: 100 万 の発行
+Description: 高速で柔軟な完全マネージド型のプッシュメッセージングサービスです。
+Description Extra: 100 万件の発行
+10 万件の HTTP/S 配信
+1,000 件のメール配信
+--------------------------------------------------
+Expertise: 無期限無料
+Service: Amazon CloudWatch
+Limit: 10 カスタムメトリクスおよびアラーム
+Description: AWS のクラウドリソースとアプリケーションをモニタリング。
+Description Extra: 10 カスタムメトリクスおよび 10 アラーム
+100 万件の API リクエスト
+5 GB のログデータの取り込みおよび 5 GB のログデータのアーカイブ
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon API Gateway
+Limit: 100 万 /月の API コール受信数
+Description: スケールを問わない API の公開、維持、監視、保護。
+Description Extra: 100 万回の API コール受信/月
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon AppStream 2.0
+Limit: 40 時間 /月の stream.standard.large インスタンスタイプの使用 (Image Builder 使用時)
+Description: デスクトップアプリケーションを安全にブラウザへストリーミングするサービスです。
+Description Extra: 40 時間/月の stream.standard.large インスタンスタイプの使用 (Image Builder 使用時)
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Lightsail
+Limit: 750 時間 3 か月間の無料トライアル
+Description: 仮想プライベートサーバーを簡単に利用可能に! コンピューティング、ストレージ、ネットワークなど、AWS でプロジェクトを始めるために必要なあらゆるものが用意されています。
+Description Extra: Lightsail の新規のお客様は最大 90 日間無料で利用可能 (期間限定)
+3.50/月、5 USD/月、または 10 USD/月のプランを 3 か月間無料で試す (Linux/Unix をご利用の場合)
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon Cloud Directory
+Limit: 1 GB /月のストレージ
+Description: 複数の階層を持つデータ向けの、完全マネージド型でクラウドネイティブなディレクトリ構築サービスです。
+Description Extra: 1 GB のストレージ/月
+10,000 回の整合性のある API コール読み込みおよび書き込み/月
+--------------------------------------------------
+Expertise: 無期限無料
+Service: Amazon CloudFront
+Limit: 1 TB のデータ送信
+Description: 低レイテンシーかつ速いデータ転送速度で、エンドユーザーにコンテンツを配信するウェブサービスです。
+Description Extra: 1 TB のデータ転送 (アウト)
+1,000 万件の HTTP および HTTPS リクエスト
+の CloudFront 関数呼び出し
+--------------------------------------------------
+Expertise: 無期限無料
+Service: Amazon Cognito
+Limit: 50,000 MAU/月
+Description: シンプルでセキュアなユーザーのサインアップ、サインイン、およびアクセスコントロール。
+Description Extra: ユーザープール機能には、各月 50,000 MAU の無料利用枠があります**
+10 GB のクラウド同期ストレージ。サインアップから 12 か月で有効期限が切れます。
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon Comprehend
+Limit: 50 K 単位のテキスト (500 万文字) (API ごと)/月
+Description: 継続的なトレーニングが行われている、フルマネージド型自然言語処理 (NLP)。
+Description Extra: 各 API につき、1 か月あたり 50 K 単位のテキスト (500 万文字)
+最初の 12 か月間、1 か月あたり 5 つのトピックモデリングジョブ (各最大 1 MB まで)
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Comprehend Medical
+Limit: 850 万 文字
+Description: 機械学習を使用して構造化されていないテキストから関連する医療情報を抽出することを容易にする自然言語処理サービス。
+Description Extra: サービスの利用開始から 1 か月間で 8.5 万テキストユニット (850 万文字)
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon Connect
+Limit: 90 分 /月の Amazon Connect 使用
+Description: Amazon Connect は、あらゆる規模の顧客窓口を構築できるシンプルなクラウド型コンタクトセンターです。
+Description Extra: 1 か月あたり 90 分の Amazon Connect 使用量
+そのリージョンのローカル直通ダイヤルイン (DID) 番号*
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon EFS
+Limit: 5 GB のストレージ
+Description: Amazon EC2 インスタンス用のシンプルでスケーラブルな共有ファイルストレージサービス。
+Description Extra: 5 GB のストレージ
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon Elastic Block Storage
+Limit: 30 GB 汎用 (SSD) ストレージまたは磁気ストレージの任意の組み合わせ
+Description: 安定性と耐久性を持ち低レイテンシーの、EC2 インスタンス用ブロックレベルストレージボリューム。
+Description Extra: 30 GB の Amazon EBS: 汎用 (SSD) ストレージまたは磁気ストレージの任意の組み合わせ
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon Elastic Container Registry
+Limit: 500 MB /月のストレージ
+Description: Docker イメージを保存および取得
+Description Extra: 500 MB/月のストレージ
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon Elastic Transcoder
+Limit: 20 分 のオーディオトランスコーディング
+Description: 完全マネージド型メディアトランスコーディングサービス。
+Description Extra: 20 分のオーディオトランスコーディング
+20 分の SD トランスコーディング
+10 分の HD トランスコーディング
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon ElastiCache
+Limit: 750 時間 (cache.t2micro または cache.t3.micro ノードの使用)
+Description: インメモリキャッシュのデプロイ、運用、スケーリングをクラウド内で簡単に実行できるウェブサービス。
+Description Extra: 750 時間の cache.t2micro または cache.t3.micro ノードの使用
+毎月継続的に実行するのに十分な時間
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon GameLift
+Limit: 125 時間 /月の Amazon GameLift オンデマンドインスタンスの使用、および EBS 汎用 (SSD) ストレージ 50 GB。
+Description: 簡単、高速、コスト効果の高い専用ゲームサーバーのホスティングサービスです。
+Description Extra: オンデマンドインスタンスを使用したリージョンごとに、c3.large、c4.large、c5.large (組み合わせ) の Amazon GameLift を 125 時間/月、さらに EBS 汎用 SSD ストレージを 50 GB 提供
+--------------------------------------------------
+Expertise: 無期限無料
+Service: Amazon Glacier (Glacier API のみ)
+Limit: 10 GB のストレージ取り出し
+Description: 安全で耐久性に優れた長期的なオブジェクトストレージ。
+Description Extra: 10 GB/月の Amazon Glacier データ取得が無料無料利用枠は、その月のいつでも利用でき、Glacier API を利用したスタンダードの取得にのみ適用されます。
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Inspector
+Limit: 15 日間 無料トライアル
+Description: ワークロードの脆弱性を自動的に検出してスキャンします。
+Description Extra: Inspector を初めて使用するアカウント向けの 15 日間の無制限無料トライアル
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon Lex
+Limit: 10,000 1 か月あたりのテキストリクエスト件数
+Description: 音声やチャットテキストに対応するチャットボットを構築。
+Description Extra: 1 か月あたりの 10,000 件のテキストリクエスト
+1 か月あたり 5,000 件の音声リクエスト
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Macie
+Limit: 30 日間 無料トライアル
+Description: 自動化された機密データの検出と、Amazon S3 のセキュリティ体制の評価。
+Description Extra: コンテンツ分類エンジンの処理 1 GB
+100,000 件のイベント
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon MQ
+Limit: 750 時間 ActiveMQ または RabbitMQ を利用したシングルインスタンスの mq.t2.micro または mq.t3.micro ブローカー/月
+Description: Amazon MQ は、オープンソースメッセージブローカー向けのフルマネージドサービスです。
+Description Extra: 750 時間の単一インスタンスの mq.t2.micro または mq.t3 ブローカー/月
+Active MQ の場合は 5GB/月の Amazon EFS ストレージ、Rabbit MQ の場合は 20GB の Amazon EBS ストレージ
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon Pinpoint
+Limit: 5,000 /月の無料利用対象ユーザー
+Description: モバイルアプリケーション向けのターゲットプッシュ通知サービスです。
+Description Extra: 1 か月あたり 5,000 人の無料利用対象ユーザー
+1 か月あたり 1,000,000 件の無料プッシュ通知
+1 か月あたり
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon Polly
+Limit: 500 万 文字/月
+Description: テキストを生きた話し声に変換します。
+Description Extra: 500 万文字/月
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon QuickSight
+Limit: 30 日間 無料トライアル
+Description: すばやく簡単に使用できるクラウド対応のビジネス分析サービス。コストは従来型 BI ソリューションの 10 分の 1 です。
+Description Extra: 最初の 30 日間は 10 GB の SPICE 容量で、合計 4 人のユーザーが無料で利用できます
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon Rekognition
+Limit: 5,000 /月の画像分析
+Description: 深層学習に基づく画像認識サービスです。
+Description Extra: 1 か月あたり 5,000 件の画像分析
+1 か月あたり最大 1,000 個の顔メタデータの保存
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon GuardDuty
+Limit: 30 日間 無料トライアル
+Description: インテリジェントな脅威検出と継続的な監視で AWS アカウントとワークロードを保護する。
+Description Extra: 30 日間無料トライアル
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon SageMaker Ground Truth
+Limit: 2 か月 無料トライアル
+Description: 高精度なトレーニングデータセットをすばやく構築しながら、ラベル付けのコストを最大 70% 削減。
+Description Extra: SageMaker の初回利用から 2 か月間は、ラベル付けされた毎月最初の 500 の対象物について無料 (ラベル付けベンダーまたは Amazon Mechanical Turk の利用から発生した追加料金を除く)
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon SES
+Limit: 3,000 件のメッセージ/月
+Description: コスト効率に優れたクラウドでのメールサービスです。
+Description Extra: 1 か月あたり 3,000 件のメッセージの料金 (送信 E メール、受信 E メール、Virtual Deliverability Manager 送信 E メール処理を含む)。
+--------------------------------------------------
+Expertise: 無期限無料
+Service: Amazon SQS
+Limit: 100 万 のリクエスト
+Description: コンピュータ間でやり取りされるメッセージを格納するためのスケーラブルなキューです。
+Description Extra: 100 万件のリクエスト
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon Sumerian
+Limit: 50 MB 初年度に毎月 100 ビューがある公開シーン
+Description: バーチャルリアリティ、拡張現実、および 3D アプリケーションの構築と実行。
+Description Extra: 初年度に無料で毎月 100 ビューがある 50 MB の公開シーン。
+--------------------------------------------------
+Expertise: 無期限無料
+Service: Amazon SWF
+Limit: 10,000 のアクティビティタスク
+Description: クラウドアプリケーション用のタスクコーディネーションとステート管理サービスです。
+Description Extra: 10,000 件のアクティビティタスク
+30,000 日のワークフロー日
+1,000 回の実行
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon Transcribe
+Limit: 60 分 /月
+Description: 自動音声認識を使用した音声のテキスト変換機能をアプリケーションに追加。
+Description Extra: 60 分/月
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon Translate
+Limit: 200 万 文字/月
+Description: 高速で高品質の、手ごろな価格のニューラル機械翻訳。
+Description Extra: 1 か月あたり 200 万文字
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon WorkDocs
+Limit: 30 日間 最大 50 ユーザーまで、1 ユーザーあたり 1 TB のストレージが含まれる無料トライアルがあります
+Description: Amazon WorkDocs は、コンテンツの作成とファイルのコラボレーションを行う、AWS 上で実行されるセキュアでフルマネージド型のサービスです。
+Description Extra: 最大 50 ユーザーまで、1 ユーザーあたり 1 TB のストレージが含まれる 30 日間の無料トライアル
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon WorkDocs & WorkSpaces バンドル
+Limit: 50 GB ストレージ無料、およびすべての WorkDocs 機能を無料で使用
+Description: Amazon WorkDocs & WorkSpaces バンドルは、コンテンツの作成とファイルのコラボレーションを行う、マネージド型のセキュアなクラウドベースのデスクトップサービスです。
+Description Extra: 
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon WorkSpaces
+Limit: 40 時間 2 つの Amazon WorkSpaces [スタンダードバンドル] を利用可能
+Description: フルマネージド型で、安全性に優れた仮想クラウドデスクトップ
+Description Extra: 40 時間 2 つの Amazon WorkSpaces [スタンダードバンドル] を利用可能
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: AWS Amplify ホスティング
+Limit: 15 GB 毎月の提供
+Description: 高速かつセキュアで信頼性の高い静的ウェブサイトと、サーバー側でレンダリングされたウェブアプリケーションのためのフルマネージド CI/CD およびホスティングサービスです。
+Description Extra: 構築とデプロイ – 1 か月あたり 1,000 分の構築時間
+--------------------------------------------------
+Expertise: 常に無料
+Service: AWS CodeBuild
+Limit: 100 ビルド分
+Description: クラウドでのコードの構築とテストを行う完全マネージド型構築サービスです。
+Description Extra: 合計 100 ビルド分/月 (general1.small または arm1.small コンピューティングタイプを使用)
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS CodeCommit
+Limit: 5 のアクティブユーザー/月
+Description: 高度にスケーラブルなマネージド型ソースコントロールサービスです。
+Description Extra: 1 か月あたり 5 人のアクティブユーザー
+1 か月あたり 50 GB/月のストレージ
+1 か月あたり 110,000 Git のリクエスト
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS CodePipeline
+Limit: 1 のアクティブパイプライン/月
+Description: 速度と信頼性に優れたアプリケーション更新を実現する継続的な配信サービスです。
+Description Extra: 1 アクティブパイプライン/月
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: AWS Data Pipeline
+Limit: 3 の低頻度の前提条件
+Description: データ駆動型ワークフローに対するオーケストレーションです。
+Description Extra: 3 個の低頻度の前提条件
+5 個の低頻度のアクティビティ
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Database Migration Service
+Limit: 750 時間 の Amazon DMS Single-AZ dms.t2.micro インスタンスの使用
+Description: 最小限のダウンタイムでデータベースを移行できるサービス
+Description Extra: Amazon DMS のシングル AZ の dms.t2.micro インスタンス 750 時間分の使用
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: AWS Device Farm
+Limit: 1,000 デバイス分
+Description: iOS、Android、FireOS アプリケーションを AWS クラウド内の実際のデバイスでテストします。
+Description Extra: 1 回限り、1,000 デバイス分の無料トライアル
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Glue
+Limit: 100 万 AWS Glue データカタログへのオブジェクトの保存
+Description: 簡単かつ柔軟でコスト効率の良い抽出、転送、ロード (ETL) のサービス。
+Description Extra: AWS Glue データカタログへのオブジェクトの保存 100 万件 
+AWS Glue データカタログへのリクエスト
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: AWS IoT Greengrass
+Limit: 3 台のデバイス 無料
+Description: インターネットに接続されたデバイスでローカルのコンピューティング、メッセージング、データキャッシュ、同期を行う。
+Description Extra: 3 台のデバイスは無料
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: AWS IoT Core
+Limit: 50 万件 (1 か月あたり) の公開済みおよび配信済みメッセージ
+Description: クラウドにデバイスを接続します。
+Description Extra: 1 か月あたり 50 万件のメッセージ (発行または配信されたもの)
+1 か月あたり 225 万分の接続時間
+1 か月あたり 22 万 5,000 回のレジストリまたはデバイスシャドウ操作回数
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: AWS IoT Device Management
+Limit: 50 リモートアクション/月
+Description: 接続デバイスを大規模にオンボード、編成、監視、リモート管理する。
+Description Extra: 50 リモートアクション/月
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Key Management Service
+Limit: 20,000 /月の無料リクエスト
+Description: AWS Key Management Service は、管理制御で暗号化を容易にするマネージドサービスです。
+Description Extra: 1 か月あたり 20,000 件の無料リクエスト
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS License Manager
+Limit: 無制限 N/A
+Description: サードパーティーのライセンス使用の管理、検出、レポートのために事前にルールを設定する。
+Description Extra: 無制限 – 好きな数だけルールを設定して、サードパーティーのライセンス使用を管理しましょう
+無料のインスタンスで費用をかけずに AWS License Manager を使用しましょう。デフォルト環境で提供されるリソースよりも多くのリソースが必要なアプリケーションには、通常の AWS レートが適用されます。
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: AWS OpsWorks for Chef Automate
+Limit: 7,500 ノード時間 (10 ノード相当)/月
+Description: Chef サーバーと Chef Automate による設定管理サービスです。
+Description Extra: 7,500 ノード時間 (10 ノード相当)/月
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: AWS OpsWorks for Puppet Enterprise
+Limit: 7,500 ノード時間 (10 ノード相当)/月
+Description: Puppet Enterprise を使用した設定管理。
+Description Extra: 7,500 ノード時間 (10 ノード相当)/月
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: AWS RoboMaker
+Limit: SU 使用時間 25 時間 1 か月間無料
+Description: AWS RoboMaker により、インテリジェントロボット工学アプリケーションを大規模かつ簡単に開発、シミュレート、デプロイすることが可能に。
+Description Extra: SU 使用時間 25 時間無料
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Step Functions
+Limit: 4,000 /月の状態遷移
+Description: 分散アプリケーションのコンポーネントをコーディネート。
+Description Extra: 4,000 回の状態遷移/月
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Storage Gateway
+Limit: 100 GB /アカウントは無料
+Description: シームレスなローカルの統合と最適化されたデータ転送を備えた、ハイブリッドクラウドストレージ。
+Description Extra: アカウントあたり最初の 100 GB は無料
+AWS への転送料金なし
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: AWS Trusted Advisor
+Limit: 4  のベストプラクティスチェックをパフォーマンスとセキュリティについて実行
+Description: AWS クラウド最適化エキスパート
+Description Extra: 4 回のベストプラクティスチェックをパフォーマンスとセキュリティ (サービスの制限、セキュリティグループ、IAM、および MFA) について実行
+通知とカスタマイズ機能
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Well-Architected Tool
+Limit: 無制限 ワークロードのレビュー
+Description: アーキテクチャをレビューし、AWS Well-Architected Tool を使ってベストプラクティスを導入する
+Description Extra: この無料ツールを使用するには、まずワークロードを定義し、Well Architected フレームワークの 5 つの柱について一連の質問に答えます。その後、AWS Well-Architected Tool で、AWS ベストプラクティスを使用した、クラウド向けのアーキテクチャを設計する方法についての計画を確認できます。
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS X-Ray
+Limit: 100,000 /月のトレースの記録
+Description: アプリケーションの分析とデバッグ。
+Description Extra: 1 か月あたり 100,000 件の記録されたトレース
+1 か月あたり 1,000,000 件のトレースのスキャンまたは取得
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Elastic Load Balancing
+Limit: 750 時間 /月のロードバランサー時間分を Classic Load Balancer と Application Load Balancer の間で共有
+Description: アプリケーションの着信トラフィックの複数の Amazon EC2 インスタンスへの自動分散。
+Description Extra: 750 時間/月のロードバランサー時間分を Classic load balancer と Application load balancer の間で共有
+の Classic Load Balancer でのデータ処理
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: AWS IoT Events
+Limit: 2,500 ひと月あたりのメッセージ評価
+Description: AWS IoT Events は、IoT センサーやアプリケーションで発生したイベントを容易に検出し対応できるようにする、完全マネージド型の IoT サービスです。
+Description Extra: AWS アカウントを作成した日から 12 か月間は月あたり 2,500 回のメッセージ評価。
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: AWS IoT Things Graph
+Limit: 5,000 ステップ/月
+Description: AWS IoT Things Graph は、さまざまなデバイスやウェブサービスを容易に視覚的に接続して IoT アプリケーションを構築できるサービスです。
+Description Extra: AWS アカウントを作成した日から 12 か月間は月あたり最初の 5,000 ステップが無料です。
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Chime
+Limit: Pro 30 日間の無料トライアル
+Description: Amazon Chime は最新のユニファイドコミュニケーションサービスで、非常に優れた音声とビデオの品質を備えたフラストレーションフリーの会議を実現できます。
+Description Extra: Amazon Chime Pro サブスクリプションでは、 30 日間、無料のオンライン会議とビデオ会議を利用できます
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Security Hub
+Limit: 無制限 30 日間の無料トライアル
+Description: AWS のセキュリティチェックを自動化してセキュリティアラートを一元化します。
+Description Extra: 最初の 30 日期間の経過後、ユーザーは以下を受け取ります。
+取り込まれた検出結果 10,000 件 (1 か月、1 リージョン、1 アカウントあたり)。
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Keyspaces (Apache Cassandra …
+Limit: 3 か月 無料トライアル
+Description: スケーラブルで可用性の高い Apache Cassandra 互換のマネージドデータベースサービス
+Description Extra: 3 か月間の無料トライアル
+3,000 万回のオンデマンド読み取り/月
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Detective
+Limit: 30 日間 無料トライアル
+Description: セキュリティデータを分析および視覚化して、潜在的なセキュリティ問題の根本原因を迅速に把握する
+Description Extra: 30 日間無料で試す
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon Augmented AI
+Limit: 500 オブジェクト (最初の 12 か月間は無料)
+Description: Amazon Augmented AI (Amazon A2I) で、人による ML 予測のレビューに必要なワークフローを簡単に構築できます。
+Description Extra: 最初の 1 年間は、Amazon A2I での人によるレビューが、合計 500 件まで無料です (1 か月あたり 42 個のオブジェクト)。これには、AWS Marketplace の作業ベンダーまたは Amazon Mechanical Turk の使用に発生する費用は含まれません。
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS CodeArtifact
+Limit: 2 GB /月のストレージ
+Description: AWS CodeArtifact は、フルマネージド型のアーティファクトリポジトリサービスであり、あらゆる規模の組織がソフトウェア開発プロセスで使用されるソフトウェアパッケージを安全に保存、公開、および共有することを容易にします。
+Description Extra: 最初の 2 GB/月のストレージ
+最初の 100,000 リクエスト/月
+--------------------------------------------------
+Expertise: 無期限無料
+Service: Amazon Honeycode
+Limit: ベーシック 20 ユーザーが含まれるほか、無制限のワークブック、および 2,500行/ワークブック
+Description: Amazon Honeycode を使用すると、プログラミングを必要とせずに、強力なモバイルおよびウェブアプリケーションをすばやく構築できます。
+Description Extra: Amazon Honeycode は、最大 20 人のメンバーのチームとワークブックあたり 2,500 行の場合に無料で利用できます
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Migration Hub
+Limit: 無制限 無制限の数のアプリケーションを追跡し、無制限の EC2 レコメンデーションを取得します
+Description: Migration Hub は、アプリケーション移行の進捗状況を追跡するための単一の場所です
+Description Extra: リソースをアプリケーションに整理し、適切なサイズの EC2 インスタンスの推奨事項を取得し、複数の AWS およびパートナーソリューション間でのアプリケーション移行の進行状況を追跡します。
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Application Discovery Service
+Limit: 1,000 アプリケーション (アカウントあたり)
+Description: サーバーの仕様情報、パフォーマンスデータ、実行中のプロセスとネットワーク接続に関する詳細情報が収集されます。
+Description Extra: 無料利用枠に達し、新しいアプリケーションをインポートする場合は、DeleteApplications API アクションを使用して既存のアプリケーションを削除できます。
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: CloudEndure Migration
+Limit: 90 日間 無制限の利用
+Description: ダウンタイムを引き起こしたり、パフォーマンスに影響を与えたりすることなく、ソースマシンをステージング領域に継続的にレプリケートします。最小限のカットオーバーウィンドウの後、マシンは自動的にブートに変換され、AWS でネイティブに実行されます。
+Description Extra: 
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Service Catalog
+Limit: 1,000 1 か月あたりの API コール
+Description: AWS での使用が承認されている IT サービスのカタログを作成および管理します。
+Description Extra: AWS Service Catalog の無料利用枠には、毎月 1,000 件の API 呼び出しが含まれています。1 か月あたりの呼び出しがこの数値を超えると、AWS Service Catalog のレートで課金されます。
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Server Migration Service
+Limit: 無制限 無制限の数のサーバーを AWS に無料で移行
+Description: オンプレミスインフラストラクチャまたは Microsoft Azure から AWS に仮想のみのワークロードを移行するエージェントレスサービス。
+Description Extra: ライブサーバーのボリュームの増分レプリケーションを自動化し、スケジュールを設定、および追跡できるため、大規模なサーバーの移行を簡単に処理できます。 
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: Amazon Interactive Video Service
+Limit: 100 時間 (SD 動画出力/月、および 5 時間の基本的な動画入力/月)
+Description: ライブのインタラクティブな動画ストリームをわずか数分で簡単にセットアップできるフルマネージドサービス。
+Description Extra: N/A
+--------------------------------------------------
+Expertise: 12 か月間無料
+Service: AWS AppSync
+Limit: 250,000 クエリまたはデータの変更/月
+Description: あらゆる規模で GraphQL API を開発、セキュア化、および実行します。
+Description Extra: 無料利用枠では、次の 1 か月あたりの利用レベルを 12 か月間無料で提供します。
+
+250,000 件のクエリまたはデータ変更オペレーション
+250,000 件のリアルタイム更新
+接続-分
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Braket
+Limit: 1 時間 (量子シミュレータへの無料アクセス)
+Description: Amazon Braket は、さまざまなタイプの量子コンピューティングハードウェアおよび量子回路シミュレーターへのアクセスを提供するフルマネージド量子コンピューティングサービスです。
+Description Extra: N/A
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS CloudTrail
+Limit: 1 各リージョンの管理イベントの単一のコピーを配信する証跡。Amazon S3 の料金が適用されます。
+Description: AWS インフラストラクチャ全体でアカウントアクティビティをログに記録し、継続的にモニタリングし、保持します。
+Description Extra: 無料 - AWS CloudTrail では、サポートされている AWS のサービスのすべての管理イベントに対する過去 90 日間のアカウントアクティビティを表示、フィルタリング、ダウンロードできます。
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Systems Manager
+Limit: 12 (AWS Systems Manager の特徴)
+Description: AWS の複数のサービスにおける運用データを一元化し、AWS リソース全体でタスクを自動化します。
+Description Extra: 無料の Systems Manager 機能 - エクスプローラー、Resource Groups、インサイトダッシュボード、インベントリ、実行コマンド、セッションマネージャー、パッチマネージャー、メンテナンスウィンドウ、ステートマネージャー、パラメータストア、オンプレミスインスタンス管理、ディストリビューター。
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS CloudFormation
+Limit: 1,000 ハンドラーオペレーション/月/アカウント
+Description: すべてのクラウドインフラストラクチャリソースをコードでモデル化してプロビジョンし、設定のコンプライアンスとより迅速なトラブルシューティングを可能にします。
+Description Extra: 1,000 件のハンドラーオペレーション/月/アカウント
+1,000件/月を超えるハンドラーオペレーションあたり
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Control Tower
+Limit: 無期限無料 追加料金はありません
+Description: 新しいセキュアなマルチアカウント AWS 環境をセットアップおよび管理するための最も簡単な方法。
+Description Extra: AWS Control Tower の利用に追加料金は発生しません。
+ランディングゾーンと必須のガードレールをセットアップするように設定された AWS のサービスには、サービスの使用量に基づいたコストが発生します。
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Organizations
+Limit: 無制限 N/A
+Description: 請求を一元管理し、アクセス、コンプライアンス、セキュリティを制御し、AWS アカウント間でリソースを共有します。
+Description Extra: すべての AWS のお客様が無料で利用できます
+--------------------------------------------------
+Expertise: 3 か月間無料
+Service: Amazon Location Service
+Limit: 3 か月 無料トライアル
+Description: アプリケーションにロケーションデータをセキュアかつ簡単に追加
+Description Extra: 500,000 マップタイル
+200,000 の位置書き込み
+200,000 の位置評価
+それぞれ 10,000 (他のすべてのアイテム1)
+(1) ジオコーディングされた住所、または結果が保存される逆ジオコーディングされた位置、およびジオフェンス月を除く
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Textract
+Limit: 1,000 ページ /月
+Description: Textract は、スキャンされたドキュメント、フォーム、およびテーブルからテキストとデータを自動的に抽出します。
+Description Extra: Detect Document Text API を使用して月に 1,000 ページ、Analyze Document API を使用して月に 100 ページまで分析できます。
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: AWS DeepRacer
+Limit: 10 時間 30 日間
+Description: DeepRacer は、物理的なレーストラックで RL モデルをテストするために設計された 1/18 スケールの自走型レーシングカーです。
+Description Extra: AWS DeepRacer に初めて触れるお客様には、モデルのトレーニングや評価を行うための 10 時間の無料時間枠と 5 GB の無料ストレージを提供しています (利用開始から 1 か月間)。これだけあれば、最初のタイムトライアルモデルのトレーニング、評価、チューニングを行って、AWS DeepRacer リーグに参加させるのに十分でしょう。この無料利用枠は、サービスの初回利用時から 30 日間有効です。
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Kendra
+Limit: 750 時間 30 日間
+Description: 機械学習を原動力とするインテリジェント検索サービス
+Description Extra: Amazon Kendra Developer Edition では、最初の 30 日間、最大 750 時間無料で利用できます。コネクタの使用は無料利用には含まれず、通常の使用時間とスキャンの料金が適用されます。無料利用枠の制限を超過した場合、使用した追加のリソースについて が発生します。
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Personalize
+Limit: 2 か月 無料
+Description: Amazon Personalize を使用すると、デベロッパーは、Amazon.com がリアルタイムのパーソナライズされたレコメンデーションに使用するのと同じ機械学習 (ML) テクノロジーを使用してアプリケーションを構築できます。
+Description Extra: データ処理およびストレージ:
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Forecast
+Limit: 2 か月 無料
+Description: Amazon Forecast は、機械学習 (ML) を使用して精度の高い予測を行うフルマネージドサービスです。
+Description Extra: 予測の生成: 1 か月あたり最大 10,000 の時系列予測
+データストレージ: 1 か月あたり最大 10 GB
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Fraud Detector
+Limit: 2 か月 無料
+Description: Amazon Fraud Detector は、機械学習 (ML) を使用して不正である可能性がある行為を特定し、お客様がより多くのオンライン不正をより迅速に把握できるようにします。
+Description Extra: モデルトレーニング
+モデルトレーニングのための最大 50 コンピューティング時間/月。
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: AWS Audit Manager
+Limit: 35,000 リソース評価/月 (2 か月間)
+Description: AWS の使用状況を継続的に監査して、リスクとコンプライアンスの評価方法を簡素化する
+Description Extra: 無料利用枠は、最初の Audit Manager のサブスクリプションから 2 か月 (60 日) で失効します。
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon DevOps Guru
+Limit: 7,200 時間 /月、3 か月間
+Description: アプリケーションの可用性を向上させる ML 駆動のクラウドオペレーションサービス
+Description Extra: リソースグループ A および B でそれぞれ 7,200 AWS リソース時間
+10,000 DevOps Guru API コール
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Lookout for Vision
+Limit: 3 か月 無料トライアル
+Description: Amazon Lookout for Vision を使用すると、コンピュータビジョンを使用して製品の欠陥を特定し、品質検査を自動化できます。
+Description Extra: 無料利用枠は 3 か月間利用でき、1 か月あたりトレーニング無料枠が 10 時間、推論無料枠が 4 時間含まれます。
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS WAF Bot Control
+Limit: 1000 万 ボット制御リクエスト/月
+Description: 一般的かつ普及しているウェブボットからウェブアプリケーションを保護
+Description Extra: Bot Control によって処理される 10,000,000 件のリクエスト/月
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Lookout for Equipment
+Limit: 1 か月 無料トライアル
+Description: センサーからのデータを使用して、機器の異常な動作を検出し、計画外のダウンタイムを回避します。
+Description Extra: 50 GB のデータ取り込み
+250 トレーニング時間
+スケジュールされた推論の 。
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon ECS Anywhere
+Limit: 2200 時間 /月
+Description: カスタマーマネージドインフラストラクチャでコンテナを簡単に実行および管理
+Description Extra: 2200 インスタンス時間/月
+6 か月間の無料トライアル
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Application Migration Service
+Limit: 無制限 無料でのサーバー移行の数 (サーバーあたり最大 90 日間)。
+Description: コストを削減しつつ、移行を簡素化および迅速化します。
+Description Extra: サーバーを無制限に無料で移行します (サーバーあたり最大 90 日間)。
+アプリケーションを変更することなく、最小限のダウンタイムでクラウドに移行します。
+--------------------------------------------------
+Expertise: 無期限無料
+Service: Migration Evaluator
+Limit: 無制限 移行前の評価リクエスト
+Description: Migration Evaluator は、お客様が AWS でオンプレミスの資産を運営するための予測コストを迅速に確認できるようにします。
+Description Extra: 無制限の移行前評価リクエストにより、検出を簡素化し、クラウドコストを予測し、移行の決定を加速します。
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Lookout for Metrics
+Limit: 100 メトリクス (使用開始月)
+Description: フルマネージドで、メトリクスの異常を自動的に検出し、その根本原因を特定する
+Description Extra: 30 日間無料トライアル
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: AWS Private Certificate Authority
+Limit: 30 日間 無料トライアル
+Description: リソースを識別してデータを保護するためのプライベート証明書を作成します。
+Description Extra: アカウントとリージョンで作成された最初のプライベート CA のオペレーションは 30 日間無料です。トライアル期間中に発行する証明書の料金はご負担いただきます。
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: AWS Secrets Manager
+Limit: 30 日間 無料トライアル
+Description: ライフサイクルを通じてシークレットを簡単にローテーション、管理、および取得します。
+Description Extra: 30 日間無料トライアル。無料トライアルでは、30 日間にわたってシークレットをローテーション、管理、取得できます。
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: AWS Resilience Hub
+Limit: 6 か月間 無料トライアル
+Description: アプリケーションの耐障害性を定義、検証、追跡するための拠点です。
+Description Extra: AWS Resilience Hub は、6 か月間、最大 3 つのアプリケーションに対して無料でお試しいただけます。
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS re:Post
+Limit: 無期限無料 追加料金はありません
+Description: AWS のお客様が技術面での問題を解決するために役立つコミュニティ主導の質疑応答サービスです。
+Description Extra: AWS re:Post からのガイダンスは、AWS 無料利用枠の一部として常に無料でご利用いただけます。
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon MemoryDB for Redis
+Limit: 750 時間 を t4g.small インスタンスで使用
+Description: 超高速パフォーマンスを実現する、Redis 互換性と耐久性を備えたインメモリデータベースサービスです。
+Description Extra: t4g.small インスタンスでの 1 月あたり 750 時間の MemoryDB 使用時間 (2 か月間)
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon DocumentDB (MongoDB 互換)
+Limit: 750 時間 が t3.medium インスタンスで無料
+Description: Amazon DocumentDB は、ミッションクリティカルなMongoDB ワークロードを運用するための、スケーラブルで耐久性に優れたフルマネージドデータベースサービスです。
+Description Extra: t3.medium インスタンスでの 750 時間のAmazon DocumentDB 使用時間 (30 日間)
+のストレージ (30 日間)
+のバックアップストレージ (30 日間)
+IO (30 日間)
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Data Exchange
+Limit: 1,600+ 無料のサードパーティーデータセット
+Description: API、ファイル、または Amazon Redshift テーブルを使用して提供されるサードパーティーデータセットを簡単に検索して使用できます。
+Description Extra: 1,600 個を超える無料のサードパーティーデータセット
+--------------------------------------------------
+Expertise: 無期限無料
+Service: Amazon Chime
+Limit: ベーシック 無制限の利用
+Description: Amazon Chime は最新のユニファイドコミュニケーションサービスで、非常に優れた音声とビデオの品質を備えたフラストレーションフリーの会議を実現できます。
+Description Extra: Amazon Chime ベーシックのサブスクリプションはいつまででも無料でご利用いただけます
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: Amazon Neptune
+Limit: 30 日間 無料トライアル
+Description: 密接に連結されたデータセットと連動するアプリケーションの構築と実行を容易にする、高速で信頼性の高いフルマネージドグラフデータベースサービスです。
+Description Extra: 750 時間の Neptune t3.medium インスタンス使用時間
+の I/O リクエスト
+--------------------------------------------------
+Expertise: 無期限無料
+Service: AWS Resource Access Manager
+Limit: 無制限 N/A
+Description: AWS アカウント間または組織内でリソースを安全に共有します。
+Description Extra: すべての AWS のお客様が無料で利用できます
+--------------------------------------------------
+Expertise: 常に無料
+Service: AWS Resource Explorer
+Limit: 無制限 N/A
+Description: AWS Resource Explorer を使用して、AWS リージョン全体でリソースを簡単に検索して発見できます。
+Description Extra: 無料のインスタンスで費用をかけずに AWS Resource Manager を利用しましょう。デフォルト環境で提供されるリソースよりも多くのリソースが必要なアプリケーションには、通常の AWS レートが適用されます。
+--------------------------------------------------
+Expertise: 無料トライアル
+Service: AWS Wickr
+Limit: 3 か月 無料トライアル
+Description: エンドツーエンドの暗号化による安全な通信
+Description Extra: 最大 30 ユーザー
+最大 30 日間のデータ有効期限タイマー
+最大 1 GB の添付ファイル
+--------------------------------------------------
+Expertise: 12 か月間の AWS 無料利用枠期間終了後にも期限切れになりません。
+Service: 
+Limit: 1 億回 の無料イベント/月
+Description: 高速で安全なモバイルアプリケーションの使用分析サービスです。
+Description Extra: 1 億回の無料イベント/月
+--------------------------------------------------
+Expertise: N/A
+Service: 
+Limit:  N/A
+Description: AWS 無料利用枠には、サインアップの 12 か月後に有効期限が切れる製品と、期限が切れない製品が含まれます。
+Description Extra: N/A
+--------------------------------------------------
